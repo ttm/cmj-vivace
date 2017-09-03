@@ -159,9 +159,10 @@ Freak coding:
 
 * Finish/polish/enhance the new vivace
   - Agree on what are the minimal constructions on the language
-  - Find out if we have better solutions that using HTML 5 for video
+  - Find out if we have better solutions than using HTML 5 for video
 * Maintain an online instance (github.io?)
 * Make more performances
+* New versions of the freakcoding manifesto?
 
 
   Thanks! Questions?
