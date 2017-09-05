@@ -52,6 +52,7 @@ a simple to learn and use
 livecoding language and environment:
 * simple syntax and grammar
 * runs on every popular browser
+* allows everyone accessing the interface to code together
 
 Also:
 * built using the standards (Web Audio API and HTML 5)
@@ -71,8 +72,7 @@ Also:
 (slide 3)
 
 
-
-** "Hello world" in Vivace **
+**"Hello world" in Vivace**
 
     a.signal = synth
     a.notes = [d4, e4, c4]
@@ -93,7 +93,7 @@ Also:
 (slide 4)
 
 
-** More elaborate examples **
+**More elaborate examples**
 
     a.signal = synth => filter => reverb
 
@@ -138,7 +138,7 @@ should anyone connect to it?
 
 Freak coding:
 * hacky interface
-* many coders including individuals from de audience
+* many coders including individuals from the audience
 * monsters
 * presentations
 * Freakcoding manifesto (published)
@@ -150,16 +150,23 @@ Freak coding:
 
 
 
+
+
+
+
+
 ============
 (slide 7)
 
 
-** Conclusions and further work **
+**Conclusions and further work**
 
 
 * Finish/polish/enhance the new vivace
-  - Agree on what are the minimal constructions on the language
+  - Agree on what are the minimal constructions for the language
+  - Implement modes for writing structures (less/more specific)
   - Find out if we have better solutions than using HTML 5 for video
+  - embed some powerful features to obtain musical structures (e.g. permutations)
 * Maintain an online instance (github.io?)
 * Make more performances
 * New versions of the freakcoding manifesto?
