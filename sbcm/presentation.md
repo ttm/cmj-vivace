@@ -167,6 +167,7 @@ Freak coding:
   - Implement modes for writing structures (less/more specific)
   - Find out if we have better solutions than using HTML 5 for video
   - embed some powerful features to obtain musical structures (e.g. permutations)
+  - software -> art;   data -> art
 * Maintain an online instance (github.io?)
 * Make more performances
 * New versions of the freakcoding manifesto?
